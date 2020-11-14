@@ -1,4 +1,4 @@
-# CSS-background-generator
+# Background-generator
 -What is Css background generator?🤔
 
 
