@@ -16,7 +16,7 @@
  
  1)As soon as you you open the website you can see two color picker box.
  
- 2)just click on the boxes and select the color.
+ 2)Just click on the boxes and select the color.
  
  3)After selecting the colors you will be able to see a text view like(linear-gradient(to right, rgb(0, 238, 255), rgb(255, 0, 0));)
  
