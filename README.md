@@ -21,3 +21,5 @@
  3)After selecting the colors you will be able to see a text view like(linear-gradient(to right, rgb(0, 238, 255), rgb(255, 0, 0));)
  
  4)Use the values in your website to see the Magic!🧙‍
+
+Happy coding :)
